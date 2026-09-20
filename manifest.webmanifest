@@ -1,0 +1,10 @@
+{
+  "name": "GDG Mini",
+  "short_name": "GDG Mini",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1c1e20",
+  "theme_color": "#1c1e20",
+  "icons": [{"src": "favicon.png", "sizes": "any", "type": "image/png"}]
+}
